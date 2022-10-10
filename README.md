@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arashdhgn
 - 👀 I’m interested in Data Science and Data analysis
-- 🌱 I’m currently learning Machine learning , BI and trying to bcome a pro in T-SQL
+- 🌱 I’m currently learning Ptython Machine learning , BI and trying to bcome a pro in T-SQL
 - 💞️ I’m looking to collaborate on any SQl, Power BI or basic python projects that helps me practice and become a pro
 - 📫 you can reach me via email at dehghanarash421@gmail.com or telegram at @arashdhgn
 - 🤷‍♂️ please feel free to tell me about problems you see in my code or projects
